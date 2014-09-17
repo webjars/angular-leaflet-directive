@@ -54,7 +54,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>0.7.7</upstream.version>
+        <upstream.version>0.7.8</upstream.version>
         <upstream.url>https://raw.githubusercontent.com/tombatossals/angular-leaflet-directive/v${upstream.version}/dist</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <requirejs>
